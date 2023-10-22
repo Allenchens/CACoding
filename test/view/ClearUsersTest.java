@@ -164,6 +164,7 @@ public class ClearUsersTest {
         //click the button
         button.doClick();
 
+
         // will continue execution here after the JDialog is closed
 
         // check the message
